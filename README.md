@@ -1,1 +1,1 @@
-# Seaborn-Lab2
+# Seaborn-Lab2 Solution
